@@ -1,0 +1,33 @@
+* ::before ::after {
+ box-sizing: border-box;
+}
+
+body {
+    background-color: #f1f5f9;
+    margin: 24px;
+}
+
+.register {
+    width: 230px;
+    padding: 24px;
+    border: 1px solid #e2e8f0;
+    background-color: #ffffff;
+}
+
+.user {
+    display: block;
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 10px;
+    border: 1px solid #cbd5e1;
+    box-sizing: border-box;
+}
+
+.button {
+    width: 100%;
+    padding: 10px;
+    color: white;
+    background-color: #2563eb;
+    box-sizing: border-box;
+}
+

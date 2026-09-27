@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 6px;
+  /* font-family: sans-serif; */
+}
+
+.content {
+    display: inline-block;
+}
+
+.tag {
+    padding: 10px 16px;
+    border: 1px solid #cbd5e1;
+    color: #655569;
+    text-decoration: none;
+}
+
+.tag:hover {
+    background-color: whitesmoke;
+    color: #655569;
+}
+
+.active {
+    background-color: #2563eb;
+    color: white;
+}

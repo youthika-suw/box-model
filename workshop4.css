@@ -1,0 +1,23 @@
+body {
+    margin: 24px;
+    background-color: #f1f5f9;
+}
+
+.panel {
+    width: 400px;
+    background-color: white;
+    border: 1px solid #e2e8f0;
+}
+
+.panel h3 {
+    margin: 0;
+    background-color: #f1f5f9;
+    padding: 12px 16px;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.log {
+    overflow-y: auto;
+    height: 150px;
+    padding: 0 16px;
+}
